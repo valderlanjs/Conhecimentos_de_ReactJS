@@ -181,9 +181,5 @@
 
 <p>O <code>key</code> é importante para o React identificar quais itens são adicionados/alterados/removidos.</p><p>Desta forma podemos renderizar listas de qualquer tipo de dados de forma fácil.</p>
 
-<h2>Considerações finais</h2>
 
-<p>Esses foram alguns dos principais conceitos que vamos explorar neste módulo de fundamentos do React. Ao dominar bem essas funcionalidades você estará apto a criar diversos tipos de aplicações.</p>
-
-<p>Mas calma, ainda tem muito mais pela frente! No próximo módulo vamos aprender tópicos mais avançados como rotas, requisições HTTP, testes e muito mais.</p>
 
